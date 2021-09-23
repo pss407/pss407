@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 	
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pss407)](https://github.com/anuraghazra/github-readme-stats)
+![pss407's GitHub stats](https://github-readme-stats.vercel.app/api?username=pss407&show_icons=true&theme=material-palenight)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pss407)](https://solved.ac/pss407)
